@@ -1,4 +1,4 @@
-# How-Invest-Monet-Effectively-in-Stocks
+# How Invest Money Effectively in Stocks
 This work seeks to develop a portfolio that maximizes the expected returns and minimize the risk as much as possible and determines how one should invest a sum of money
 when different stocks are available, each with some unpredictability in how their price will fluctuate over time.
 The Modern Portfolio Theory (MPT, Markowitz Portfolio
